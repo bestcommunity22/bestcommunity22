@@ -4,3 +4,4 @@
 - so that you can easily get confident on this and get an idea how interview can crack
 - just remember dont delete any code from this repo, always help to others by sharing this and our website
 - https://qaportal.communitycomputercenter.com/ 
+- Here I will explain your question and write it in this repo
